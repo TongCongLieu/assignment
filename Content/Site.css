@@ -231,7 +231,16 @@ ul#menu {
         .featured p {
             font-size: 1.1em;
         }
-
+    .featured a {
+        text-decoration: none;
+    }
+    .featured a:hover {
+        background: #7ac0da;
+    }
+    .featured input:active {
+        background: #7ac0da;
+        color:yellow;
+    }
 /* page titles */
 hgroup.title {
     margin-bottom: 10px;
