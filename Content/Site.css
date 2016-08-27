@@ -116,7 +116,7 @@ h5, h6 {
     }
 
 header .content-wrapper {
-    padding-top: 20px; 
+    
 }
     
 footer {
@@ -183,7 +183,7 @@ footer {
 ul#menu {
     font-size: 24px;
     font-weight: 600;
-    margin: 0 0 5px;
+    
     padding: 0;
     text-align: right;
 }
@@ -654,7 +654,7 @@ tr.pager td {
     }
 
     .featured .content-wrapper {
-        padding: 10px;
+        
     }
 
     /* page content */
@@ -745,5 +745,14 @@ tr.pager td {
 }
 ol {
     font-size: 18px;
+}
+.active {
+    background-color:#f00;
+}
+    .active:hover {
+        background-color:#7ac0da @impotant;
+    }
+.abc {
+    background-color:#ff6a00;
 }
 /* END: Mobile Styles */

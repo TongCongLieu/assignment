@@ -6,9 +6,9 @@
             <a id="A6" runat="server" href="~/">
                 <input id="Button6" type="button" value="Khách Hàng" /></a>
             <a id="A7" runat="server" href="~/San Pham.aspx">
-                <input id="Button7" type="button" value="Sản Phẩm" /></a>
+                <input class="active" id="Button7" type="button" value="Sản Phẩm" style="background-color:#f00" /></a>
             <a id="A8" runat="server" href="~/Loai Sp.aspx">
-                <input id="Button8" type="button" value="Loại Sản Phẩm" /></a>
+                <input class="active" id="Button8" type="button" value="Loại Sản Phẩm"/></a>
             <a id="A9" runat="server" href="~/Hoa Don.aspx">
                 <input id="Button9" type="button" value="Hóa Đơn" /></a>
             <a id="A10" runat="server" href="~/C HOa Don.aspx">
