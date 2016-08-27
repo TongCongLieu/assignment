@@ -4,7 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
             <a id="A1" runat="server" href="~/">
-                <input id="Button5" type="button" value="Khách Hàng" /></a>
+                <input class="active" id="Button5" type="button" value="Khách Hàng" style="background-color:#ff6a00" /></a>
             <a id="A2" runat="server" href="~/San Pham.aspx">
                 <input id="Button1" type="button" value="Sản Phẩm" /></a>
             <a id="A3" runat="server" href="~/Loai Sp.aspx">
